@@ -12,5 +12,5 @@ un elenco:
 | 10  | 20  |
 | 21  | 30  |
 
-![GitHub image](img/github_image_2.jpg)
+![GitHub image](github_image_2.jpg)
 
