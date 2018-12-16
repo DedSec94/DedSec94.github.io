@@ -20,8 +20,14 @@
 *Studio Game Design presso [TheSign - Comics & Arts Academy Firenze](https://thesign.academy/)*
 
 # Portfolio (Aggiornato al 06/2018)
-[Portfolio](https://docs.google.com/presentation/d/1MrGrAmtoWK9QWI4bqQi0HQVQjVcMwtn43kz0w0t0_14/edit?usp=sharing) 
-
+- [Portfolio](https://docs.google.com/presentation/d/1MrGrAmtoWK9QWI4bqQi0HQVQjVcMwtn43kz0w0t0_14/edit?usp=sharing) 
+**Immagini di Lavori Svolti**
+![GitHub image](cam01.jpg)
+![GitHub image](cam02.jpg)
+![GitHub image](JTR.jpg)
+![GitHub image](sold.jpg)
+![GitHub image](Portofino_Animazione.jpg)
+![GitHub image](Portofino_Animazione_VRayWireColor.jpg)
 # Contatti
 - [Instagram: @meaningfuldesigner](https://www.instagram.com/meaningfuldesigner/?hl=it)
 - [Gmail: matteocosimi94@gmail.com]()
