@@ -21,3 +21,5 @@
 
 # Contatti
 - [Instagram: @meaningfuldesigner](https://www.instagram.com/meaningfuldesigner/?hl=it)
+- [Gmail](matteocosimi94@gmail.com)
+- [Outlook](matteocosimi@hotmail.com)
