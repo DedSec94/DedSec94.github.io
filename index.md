@@ -19,7 +19,10 @@
 
 *Studio Game Design presso [TheSign - Comics & Arts Academy Firenze](https://thesign.academy/)*
 
+# Portfolio (Aggiornato al 06/2018)
+[Portfolio](https://docs.google.com/presentation/d/1MrGrAmtoWK9QWI4bqQi0HQVQjVcMwtn43kz0w0t0_14/edit?usp=sharing) 
+
 # Contatti
 - [Instagram: @meaningfuldesigner](https://www.instagram.com/meaningfuldesigner/?hl=it)
-- [Gmail:matteocosimi94@gmail.com]()
+- [Gmail: matteocosimi94@gmail.com]()
 - [Outlook: matteocosimi@hotmail.com]()
