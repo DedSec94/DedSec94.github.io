@@ -25,7 +25,7 @@
 ![GitHub image](cam01.jpg)
 ![GitHub image](cam02.jpg)
 ![GitHub image](JTR.jpg)
-![GitHub image](sold.jpg)
+![GitHub image](sold.png)
 ![GitHub image](Portofino_Animazione.jpg)
 ![GitHub image](Portofino_Animazione_VRayWireColor.jpg)
 # Contatti
