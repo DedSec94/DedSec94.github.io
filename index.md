@@ -1,3 +1,5 @@
+![GitHub image](DedSec.jpg)
+
 # Matteo Cosimi
 > Questo è il mio sito di presentazione su GitHub (meglio GitLab!)
 
