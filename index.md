@@ -21,6 +21,7 @@
 
 # Portfolio (Aggiornato al 06/2018)
 - [Portfolio](https://docs.google.com/presentation/d/1MrGrAmtoWK9QWI4bqQi0HQVQjVcMwtn43kz0w0t0_14/edit?usp=sharing) 
+
 **Immagini di Lavori Svolti**
 ![GitHub image](cam01.jpg)
 ![GitHub image](cam02.jpg)
