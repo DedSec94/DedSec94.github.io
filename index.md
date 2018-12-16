@@ -17,8 +17,7 @@
 - [Allegorithmic Substance Painter](https://www.allegorithmic.com/products/substance-painter)
 - [Adobe Photoshop CC](https://www.adobe.com/it/products/photoshop.html)
 
-*Studio Game Design presso TheSign - Comics & Arts Academy Firenze*
+*Studio Game Design presso [TheSign - Comics & Arts Academy Firenze](https://thesign.academy/)*
 
-[TheSign - Comics & Arts Academy](https://thesign.academy/)
 # Contatti
 - [Instagram: @meaningfuldesigner](https://www.instagram.com/meaningfuldesigner/?hl=it)
