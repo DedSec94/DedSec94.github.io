@@ -7,6 +7,6 @@
 
 *Studio Game Design presso TheSign - Comics & Arts Academy Firenze*
 
-https://thesign.academy
+https://thesign.academy/
 # Dove Vivo
 <addr> Via San Francesco 105, Pisa
