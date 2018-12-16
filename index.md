@@ -9,6 +9,6 @@
 
 *Studio Game Design presso TheSign - Comics & Arts Academy Firenze*
 
-https://thesign.academy/
+[GitHub](https://thesign.academy/)
 # Dove Vivo
 > Vorresti saperlo eh?
