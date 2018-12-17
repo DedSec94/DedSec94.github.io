@@ -6,6 +6,7 @@
 **Chi sono?**
 
 *3D Generalist con capacità nell'uso di programmi di modellazione e rappresentazione 3D e di programmi di fotoritocco*
+
 *Studio Game Design presso [TheSign - Comics & Arts Academy Firenze](https://thesign.academy/)*
 
 **Programmi Usati**:
