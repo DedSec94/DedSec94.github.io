@@ -1,11 +1,12 @@
 ![GitHub image](DedSec.jpg)
 
 # Matteo Cosimi
-> Questo è il mio sito di presentazione su GitHub (meglio GitLab!)
+> Questo è il mio sito di presentazione su GitHub
 
 **Chi sono?**
 
 *3D Generalist con capacità nell'uso di programmi di modellazione e rappresentazione 3D e di programmi di fotoritocco*
+*Studio Game Design presso [TheSign - Comics & Arts Academy Firenze](https://thesign.academy/)*
 
 **Programmi Usati**:
 - [Autodesk Maya](https://www.autodesk.it/products/maya/overview)
@@ -17,7 +18,6 @@
 - [Allegorithmic Substance Painter](https://www.allegorithmic.com/products/substance-painter)
 - [Adobe Photoshop CC](https://www.adobe.com/it/products/photoshop.html)
 
-*Studio Game Design presso [TheSign - Comics & Arts Academy Firenze](https://thesign.academy/)*
 
 # Portfolio (Aggiornato al 06/2018)
 - [Portfolio](https://docs.google.com/presentation/d/1MrGrAmtoWK9QWI4bqQi0HQVQjVcMwtn43kz0w0t0_14/edit?usp=sharing) 
